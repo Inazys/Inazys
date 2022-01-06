@@ -5,7 +5,7 @@
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=inazys&&show_icons=true&theme=github_dark" />
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inazys&theme=github_dark&layout=compact" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inazys&layout=compact" />
 
 <img align="left" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 
