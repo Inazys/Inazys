@@ -11,7 +11,7 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Pic" height="150" style="border-radius:50px;" src="https://images-ext-2.discordapp.net/external/s5HSa8cBGFMi__KnZ_zbc3IpXWAKI6UHzX5Ga5n-KLg/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/903121413920133132/f21dd0f2e7729dcb3ab7fceb031743bd.png">
+  <img align="right" alt="Pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/898426284877705280/928673882494337056/C8468B46-2281-487A-B932-96559C54F184.jpg?width=676&height=676">
 </div>
 </div>
   
