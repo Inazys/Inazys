@@ -13,7 +13,6 @@
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="right" alt="Pic" height="200" style="border-radius:50px;" src="https://media.discordapp.net/attachments/898426284877705280/928673882494337056/C8468B46-2281-487A-B932-96559C54F184.jpg?width=676&height=676">
 </div>
-</div>
   
   ##
  
