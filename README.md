@@ -3,8 +3,8 @@
 - 👀 I’m interested in Coding Discord Bot and Playing Valorant!
 - 🌱 I’m currently learning JS, PY, HTML, PHP
 <div>
-  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=inazys&&show_icons=true&theme=github_dark" />
-  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inazys&layout=compact&theme=github_dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=inazys&&show_icons=true&theme=github_dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inazys&layout=compact&theme=github_dark" />
 </div>
 
 <img align="left" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
